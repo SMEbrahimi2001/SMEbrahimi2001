@@ -1,4 +1,4 @@
-## Hi dear friend
+## Hi Dear Friend
 I'm Seyyed Mohammad Ebrahimi
 
 Computer Engineering Graduate
@@ -13,7 +13,7 @@ University smart home final project
 
 2 years of experience in IOT and lecturing in Shad system
 
-## What I learned
+## What I Learned
 * Dart
 * Flutter
 * C++
@@ -25,6 +25,11 @@ University smart home final project
 * Turquoise Panel in Green Cedar Torshiz company 
 * Avakado App in Green Cedar Torshiz company
 * Fenjoon App in Arc Team company
+
+## My learnings
+*Artificial Intelligence
+*Agents
+*Network & Data Analytics
 
 ## Contact Me
 Phone: 09155609675
