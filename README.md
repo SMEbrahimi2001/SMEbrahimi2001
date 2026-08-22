@@ -24,6 +24,7 @@ University smart home final project
 ## My Work
 * Turquoise Panel in Green Cedar Torshiz company 
 * Avakado App in Green Cedar Torshiz company
+* Khesht Aval App in First place in teamwork at the 6th Khorasan Razavi Digital Event
 * Fenjoon App in Arc Team company
 
 ## My learnings
